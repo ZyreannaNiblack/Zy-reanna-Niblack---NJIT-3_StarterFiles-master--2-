@@ -1,6 +1,6 @@
 [
       {
-            "title": "The Shawshank Redemption",
+            "title": "Friday",
             "iscore": 9.3,
             "rating": "R",
             "runtime": 142,
@@ -11,7 +11,7 @@
             "website": "https://www.facebook.com/ShawshankRedemptionFilm",
             "likes": 1021,
             "dislikes": 122,
-            "posterindex": 0
+            "posterindex": 0 
       },
       {
             "title": "The Godfather",
@@ -69,4 +69,4 @@
             "dislikes": 101,
             "posterindex": 0
       }
-]
+] 
